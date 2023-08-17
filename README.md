@@ -1,10 +1,10 @@
-### 윤승현 👋
-
-
-**yunkr/yunkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend 윤승현 👋
 
 </br>
 
+백엔드 개발자로서 다양한 프로젝트에 참여하여 사용자들의 더 나은 경험을 만들고, 문제들을 해결하는데 기여하고 싶습니다. </br>
+꾸준히 새로운 도전과 학습을 통해 성장과 성취감을 느끼고 싶습니다.
+</br>
 ### 🔗Projects
 - 업사이클링을 촉진하고 환경 보호를 위한 펀딩 프로젝트 📂[[프로젝트 내용]](https://github.com/yunkr/ieun)
 
