@@ -7,6 +7,7 @@
 
 </br>
 </br>
+
 ### 🔗Projects
 - 업사이클링을 촉진하고 환경 보호를 위한 펀딩 프로젝트 📂[[프로젝트 내용]](https://github.com/yunkr/ieun)
 
