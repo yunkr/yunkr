@@ -13,7 +13,7 @@
 
 - Stackoverflow 클론 프로젝트 📂[[프로젝트 내용]](https://github.com/yunkr/Stackoverflow_Clone)
 
-- 도서관리 API 📂[[프로젝트 내용]](https://github.com/yunkr/libraryManagement-API)
+- 도서관리 API 📂[[프로젝트 내용]](https://github.com/yunkr/be-library-api)
 
 - 딥러닝을 이용한 졸음운전 방지 시스템 📂[[프로젝트 내용]](https://github.com/yunkr/Wake-up)
 
