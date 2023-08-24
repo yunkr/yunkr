@@ -11,11 +11,11 @@
 ### 🔗Projects
 - 업사이클링을 촉진하고 환경 보호를 위한 펀딩 프로젝트(ieun) 📂[[프로젝트 내용]](https://github.com/yunkr/ieun)
 
-- Stackoverflow 클론 프로젝트 📂[[프로젝트 내용]](https://github.com/yunkr/Stackoverflow_Clone)
+- Stackoverflow 클론 프로젝트(Stackoverflow_Clone) 📂[[프로젝트 내용]](https://github.com/yunkr/Stackoverflow_Clone)
 
-- 도서관리 API 📂[[프로젝트 내용]](https://github.com/yunkr/be-library-api)
+- 도서관리 API(be-library-api) 📂[[프로젝트 내용]](https://github.com/yunkr/be-library-api)
 
-- 딥러닝을 이용한 졸음운전 방지 시스템(Wake Up) 📂[[프로젝트 내용]](https://github.com/yunkr/Wake-up)
+- 딥러닝을 이용한 졸음운전 방지 시스템(Wake-Up) 📂[[프로젝트 내용]](https://github.com/yunkr/Wake-up)
 
 </br>
 
