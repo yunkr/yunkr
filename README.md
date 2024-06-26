@@ -14,8 +14,6 @@
 </br>
 
 ### 🤝 Contact
--  📩 Email: seunghyun4416@gmail.com
-
+- 📩 Email: seunghyun4416@gmail.com
+- ✍🏻 Blog: https://tmdgus416.tistory.com/
 </br>
-
-### ✍🏻 Blog: https://tmdgus416.tistory.com/
